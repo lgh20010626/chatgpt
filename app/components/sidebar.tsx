@@ -120,7 +120,7 @@ export function SideBar(props: { className?: string }) {
           lightService ChatGPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          构建自己的人工智能助手。
+          构建自己的AI助手。
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
